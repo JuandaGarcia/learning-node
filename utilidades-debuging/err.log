@@ -1,0 +1,12 @@
+Error: Ooops!
+    at Timeout._onTimeout (C:\Users\Juand\Desktop\learning-node\utilidades-debuging\console-class.js:10:20)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+Error: Ooops!
+    at Timeout._onTimeout (C:\Users\Juand\Desktop\learning-node\utilidades-debuging\console-class.js:10:20)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+Error: Ooops!
+    at Timeout._onTimeout (C:\Users\Juand\Desktop\learning-node\utilidades-debuging\console-class.js:10:20)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
